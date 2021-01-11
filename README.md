@@ -1,3 +1,3 @@
 # **Peer-graded Assignment**  
-Date and time at which make was run: **Δευ 11 Ιαν 2021 05:30:55 μμ EET**  
-Number of lines of code contained in guessinggame.sh: **21**
+**Date and time at which make was run:** *Δευ 11 Ιαν 2021 05:32:28 μμ EET*  
+**Number of lines of code contained in guessinggame.sh:** *21*
