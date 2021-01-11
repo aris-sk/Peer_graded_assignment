@@ -13,7 +13,7 @@ function  guess (){
 	elif [[ "$guess" -gt "$file_number" ]]
 	then echo -e "\nThe nummber of files in curren directory is lower"
 	elif [[ "$guess" -lt "$file_number" ]]
-	then echo -e "\nThe nummber of files in curren directory is higher"
+	then echo -e "\nThe nummber of files in current directory is higher"
 	fi
 	done
 }
