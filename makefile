@@ -1,6 +1,5 @@
 README.md:
-	echo "Peer-graded Assignment" > README.md
-	echo \
+	echo "Peer-graded Assignment  " > README.md
 	date >> README.md
-	echo \n
+	echo "  "
 	cat ./guessingggame.sh | wc -l >> README.md
